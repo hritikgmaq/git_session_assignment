@@ -1,0 +1,5 @@
+Total Sales for Blue Pallets = 
+Calculate (
+    SUM(Sales[Sales]),
+    Sales[Product] = "Blue Pallets"
+)
